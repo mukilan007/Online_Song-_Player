@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203660669067",
+    "project_id": "m-player-260a8",
+    "storage_bucket": "m-player-260a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203660669067:android:a4130a5cdff03ee68c248e",
+        "android_client_info": {
+          "package_name": "com.example.mplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203660669067-rdfssdgcl51dhknjegtgph4jmc8gkgmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7SepmEpU0uaTNK3RSlNVqO08Vezui338"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203660669067-rdfssdgcl51dhknjegtgph4jmc8gkgmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

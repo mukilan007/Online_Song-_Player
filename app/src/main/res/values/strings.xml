@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">M Player</string>
+    <string name="choose_category">CHOOSE CATEGORY</string>
+    <string name="upload_song">Upload Song...</string>
+</resources>

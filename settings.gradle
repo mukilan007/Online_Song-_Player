@@ -1,0 +1,3 @@
+rootProject.name = "M Player"
+include ':app'
+include ':mylibrary'
